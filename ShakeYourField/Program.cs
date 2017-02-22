@@ -48,7 +48,7 @@ namespace ShakeYourField
 
             while (control)
             {
-                Write(i + " HEAT Personal Name : ");
+                Write(i + " Personal Name : ");
                 UserList.Add(ReadLine());
                 i++;
 
